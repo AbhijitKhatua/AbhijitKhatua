@@ -1,15 +1,15 @@
 {
   "name": "@jackyzha0/quartz",
-  "description": "🌱 publish your digital garden and notes as a website",
+  "description": "🌱 Welcome to my little garden",
   "private": true,
   "version": "4.5.1",
   "type": "module",
-  "author": "jackyzha0 <j.zhao2k19@gmail.com>",
+  "author": "Abhijit",
   "license": "MIT",
-  "homepage": "https://quartz.jzhao.xyz",
+  "homepage": "https://abhijitkhatua.github.io/AbhijitKhatua/",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jackyzha0/quartz.git"
+    "url": "https://github.com/AbhijitKhatua/AbhijitKhatua.git"
   },
   "scripts": {
     "quartz": "./quartz/bootstrap-cli.mjs",
