@@ -96,7 +96,8 @@ I'm a frontend web developer with a passion for making web better and faster. Cu
 		</kbd>
 	</p>
     </p>
-</div>    
+</div>
+
 ---
 
 ![Github Stats](https://greptile-stats.vercel.app/api/widget/AbhijitKhatua/stats)
