@@ -1,7 +1,7 @@
 ---
 title: Hi There! 👋 I'm Abhijit
 ---
-
+[![Medium](https://img.shields.io/badge/-Medium-black?style=flat&logo=Medium&logoColor=white)](https://medium.com/@abhijitkhatua)[![Twitter](https://img.shields.io/badge/-Twitter-black?style=flat&logo=X&logoColor=white)](https://x.com/abhijitkhatuaa)[![Mastodon](https://img.shields.io/badge/-Mastodon-black?style=flat&logo=Mastodon&logoColor=white)](https://mastodon.social/@abhijitkhatua)
 #### Frontend Developer | UI Engineer | Curious Builder
 
 I craft responsive, accessible, and performant user interfaces using **React**, **Next.js**, and modern web technologies. Currently building clean, scalable UIs and exploring the intersection of code, design, and usability.
@@ -59,7 +59,6 @@ _UI/UX Designer_ (Oct 2021 – Jan 2023)
 > Built a web interface for seamless 360° image-based navigation to showcase real estate properties.  
 > **Impact:** Demonstrated at IBS 2025; helped close a $150K client deal.
 
----
 ---
 
 ## 📜 Certifications
