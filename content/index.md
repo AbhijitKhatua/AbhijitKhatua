@@ -67,3 +67,9 @@ _UI/UX Designer_ (Oct 2021 – Jan 2023)
 - [Foundations of UX Design – Google](https://www.coursera.org/account/accomplishments/verify/JNUFG29QDYHS)
 - [Computer Networking – Google](https://www.coursera.org/account/accomplishments/verify/8WNZKQADCGRM)
 - [IT Support Fundamentals – Google](https://www.coursera.org/account/accomplishments/verify/RWXVBGM7DDTM)
+
+## ♟️My Hobbies
+
+[[Chess]]
+[[Photography]]
+[[Reading]]
