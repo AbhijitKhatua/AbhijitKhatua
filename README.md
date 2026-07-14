@@ -76,6 +76,7 @@ I'm a frontend web developer with a passion for making web better and faster. Cu
 			<img alt="Repl.it" src="https://img.shields.io/badge/Repl.it-05122A.svg?style=flat&logo=Replit">
 			<img alt="AWS" src="https://img.shields.io/badge/AWS%20Amplify-05122A?style=flat&logo=AWS">
 			<img alt="Docker" src="https://img.shields.io/badge/Docker-05122A?style=flat&logo=Docker">
+			<img alt="Vercel" src="https://img.shields.io/badge/Vercel-05122A?style=flat&logo=Vercel">
 		</kbd>
 	</p>
 	<p>
@@ -98,6 +99,3 @@ I'm a frontend web developer with a passion for making web better and faster. Cu
     </p>
 </div>
 
----
-
-![Github Stats](https://greptile-stats.vercel.app/api/widget/AbhijitKhatua/stats)
